@@ -1,0 +1,32 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 8
+Active frames: 2
+Frames order: 0 1 2 3 4 5 6 7 8 9
+Active cycles: 5
+Frame rate: 5
+Duration: 10
+Active cooldown: 0
+
+Bubble slots: 1
+
+Slot: 0
+X: 55
+Y: 16
+Text: Nah ah ah!
+AlignH: Left
+AlignV: Bottom
+StartFrame: 2
+EndFrame: 4
+
+Slot: 0
+X: 55
+Y: 16
+Text: You didn't say\nthe magic word!
+AlignH: Left
+AlignV: Bottom
+StartFrame: 6
+EndFrame: 8
